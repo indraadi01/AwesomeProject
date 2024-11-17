@@ -1,0 +1,28 @@
+{
+  "mahasiswa": [
+    {
+      "id": "dc12",
+      "first_name": "Hafiz",
+      "last_name": "Vergiansyah",
+      "email": "hafizh@mail.ugm.ac.id",
+      "kelas": "A",
+      "gender": "male"
+    },
+    {
+      "id": "1f7a",
+      "first_name": "Indra",
+      "last_name": "Adi",
+      "email": "mindraadikusuma@mail.ugm.ac.id",
+      "kelas": "B",
+      "gender": "male"
+    },
+    {
+      "id": "12d1",
+      "first_name": "Dhimar",
+      "last_name": "Fadhilansyah",
+      "email": "dhimarfadhil@mail.ugm.ac.id",
+      "kelas": "A",
+      "gender": "male"
+    }
+  ]
+}
